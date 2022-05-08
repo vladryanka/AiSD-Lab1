@@ -1,0 +1,4 @@
+﻿Test1Lab.obj : error LNK2005: "struct List * head" (?head@@3PAUList@@A) уже определен в pch.obj
+Test1Lab.obj : error LNK2005: "struct List * tail" (?tail@@3PAUList@@A) уже определен в pch.obj
+     Создается библиотека C:\Users\Я\Desktop\вуз\4 семестр\АиСД\AiSD-1lab\Debug\Test1Lab.lib и объект C:\Users\Я\Desktop\вуз\4 семестр\АиСД\AiSD-1lab\Debug\Test1Lab.exp
+C:\Users\Я\Desktop\вуз\4 семестр\АиСД\AiSD-1lab\Debug\Test1Lab.dll : fatal error LNK1169: обнаружен многократно определенный символ - один или более
